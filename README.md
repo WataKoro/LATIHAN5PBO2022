@@ -25,6 +25,8 @@ Jika inputtan belum lengkap maka akan muncul peringatan dan data inputtan tidak 
 
 Jika mengcancel akan membersihkan inputtan dari user dari bar.
 
+Inputtan user akan dibersihkan setelah proses selesai.
+
 Saya Irfan Mochamad Esa 2005568 mengerjakan LATIHAN5 dalam mata kuliah Desain
 dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan 
 kecurangan seperti yang telah dispesifikasikan. Aamiin
